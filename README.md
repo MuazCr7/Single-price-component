@@ -1,8 +1,6 @@
-# Frontend Mentor - Huddle landing page with single introductory section
+# Frontend Mentor - Single price grid component
 
-![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
+![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-
-
 
